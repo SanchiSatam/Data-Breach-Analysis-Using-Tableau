@@ -11,6 +11,9 @@ The objective of performing data breach analysis is to comprehensively understan
 5.	Which locations of breached information affect the most individuals?
 6.	Which departments and breach locations are associated with the largest data thefts?
 
+# Dashboard
+![Screenshot 2024-01-24 184532](https://github.com/SanchiSatam/Data-Breach-Analysis/assets/68892516/7c7eb3b9-5cd4-41c5-908b-574006e2a5c4)
+
 # Insights
 1. The line chart showing estimated stolen data over time indicates a relatively low volume of data theft from January 2016 to April 2019. This could suggest effective data security measures during this period.
 2. The visualization of breaches by type reveals that theft is the most common type of breach, followed by unauthorized access/disclosure, other types, loss, and hacking/IT incidents. This suggests a need to strengthen physical security measures and access controls.
